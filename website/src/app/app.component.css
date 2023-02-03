@@ -1,0 +1,24 @@
+.hs-nav {
+    color: white;
+    background-color: #6CA2DD;
+}
+
+.hs-nav a, .hs-nav a:visited, .hs-nav a:active {
+    color: white;
+    font-size: x-large;
+}
+
+nav {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+footer {
+    background-color: #6CA2DD;
+    color: white;
+}
+
+.footer-banner {
+    font-weight: bold;
+    font-size: xx-large;
+}

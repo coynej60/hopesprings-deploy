@@ -1,0 +1,17 @@
+.profile-button {
+    color: white;
+    background-color: #6CA2DD;
+}
+
+.announce {
+    border: solid 1px black;
+    z-index: 199;
+    font-size: x-large;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(248, 183, 42);
+    height: 50px;
+}

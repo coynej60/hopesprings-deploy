@@ -1,0 +1,7 @@
+<div class="sidenav ms-2 me-2">
+    <ul style="list-style: none;" class="pt-5 pb-5">
+        <li *ngFor="let item of items">
+            <p><a (click)="scrollTo(item)" href="javascript: void(0)">{{item}}</a></p>
+        </li>
+    </ul>
+</div> 
